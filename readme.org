@@ -1,0 +1,33 @@
+* Database Readings
+
+The following is a collection of resources to construct databases.
+My initial line of research is in constructing a database that allows for abstraction and combinators in constructing the search clauses.
+
+* Datalog
+
+Following is a collection of resources for understanding the construction of Datalog:
+
+** [[https://www2.cs.sfu.ca/CourseCentral/721/jim/DatalogPaper.pdf][What You Always Wanted to Know About Datalog (And Never Dared to Ask)]]
+Looks like a neat paper on the internals of Datalog.
+
+** [[https://www.arrdem.com/2018/05/17/shelving_building_a_datalog/][Building a Datalog for Fun! and Profit?]]
+
+Speaker notes on constructing a Datalog in Clojure.
+[[Video is also available.][https://youtu.be/U4ckAGtv_OI]]
+
+** [[https://dodisturb.me/posts/2018-12-25-The-Essence-of-Datalog.html][The Essence of Datalog]]
+
+A blogpost on constructing a simple Datalog engine in Haskell to understand its semantics.
+
+** To Investigate
+
+*** History of Datalog
+
+I kind of know that Datalog have Horn Clauses as their primitives but need to investigate exactly how they figure in terms of representation and generality in logic.
+What kind of logic are they capable of expressing with them?
+What kind of lattice/structure is their underlying model? What does this preclude / exclude?
+
+*** Doop
+https://plast-lab.github.io/doop-pldi15-tutorial/
+
+*** Souffle
