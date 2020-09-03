@@ -21,6 +21,12 @@ A blogpost on constructing a simple Datalog engine in Haskell to understand its 
 
 ** [[http://aosabook.org/en/500L/an-archaeology-inspired-database.html][An Archaeology Inspired Database]]
 A blogpost on building a database with Datalog in Clojure in less than 500 lines of code.
+h/t [[https://twitter.com/toxi][Karsten Schmidt]]
+
+** [[https://www3.cs.stonybrook.edu/~liu/papers/Rules-TOPLAS09.pdf][From Datalog Rules to Efficient Programs with Time and Space Guarantees]]
+An article on transforming Datalog queries for maximum efficiency in time and space dimensions.
+
+h/t [[https://twitter.com/willb][William Benton]]
 
 ** To Investigate
 
@@ -30,10 +36,30 @@ I kind of know that Datalog have Horn Clauses as their primitives but need to in
 What kind of logic are they capable of expressing with them?
 What kind of lattice/structure is their underlying model? What does this preclude / exclude?
 
+* Research Materials
+[[https://dsf.berkeley.edu/papers/socc12-blooml.pdf][Logic and Lattices for Distributed Programming]]
+
+Ginsburg later in his life got interested in Datalog and Object Histories. It could be worthwhile to investigate what he was up to.
+
+** Material on Data Integration from Stanford
+http://logic.stanford.edu/dataintegration/
+
 *** Doop
 https://plast-lab.github.io/doop-pldi15-tutorial/
 
-*** Souffle
+*** [[https://souffle-lang.github.io/][Soufflé]]
+
+*** [[https://github.com/HarvardPL/formulog][Formulog]]
+
+*** Dedalus
+Papers:
+*** [[https://dsf.berkeley.edu/papers/datalog2011-dedalus.pdf][Dedalus: Datalog in Time and Space]]
+
+*** [[http://bloom-lang.net/][Bloom]]
+
+Talks by Peter Alvaro:
+*** [[https://www.youtube.com/watch?v=R2Aa4PivG0g][I See What You Mean]]
+*** [[https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Bloom-Disorderly-Programming-for-a-Distributed-World][Bloom: Disorderly Programming for a Distributed World]]
 
 * Linked Data
 
@@ -41,3 +67,4 @@ Linked data, triple store, and the RDF movement in the web space is well worth u
 
 ** [[http://linkeddatabook.com/editions/1.0/][Linked Data Book]]
 Book on the ethos of linked data.
+h/t [[https://twitter.com/toxi][Karsten Schmidt]]
