@@ -61,6 +61,16 @@ Talks by Peter Alvaro:
 *** [[https://www.youtube.com/watch?v=R2Aa4PivG0g][I See What You Mean]]
 *** [[https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Bloom-Disorderly-Programming-for-a-Distributed-World][Bloom: Disorderly Programming for a Distributed World]]
 
+** Interesting use cases
+
+*** Type checker
+[[https://users.soe.ucsc.edu/~cormac/papers/ppdp05.pdf][Automatic Type Inference via Partial Evaluation]]
+
+*** Disassembly
+
+**** [[https://www.usenix.org/system/files/sec20fall_flores-montoya_prepub_0.pdf][Datalog Disassembly]]
+**** [[https://github.com/GrammaTech/ddisasm][Repo]]
+
 * Linked Data
 
 Linked data, triple store, and the RDF movement in the web space is well worth understanding to know how it evolved and failed to garner the traction to become mainstream. I feel there’s some good work done in this field.
