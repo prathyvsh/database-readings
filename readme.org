@@ -28,6 +28,8 @@ An article on transforming Datalog queries for maximum efficiency in time and sp
 
 h/t [[https://twitter.com/willb][William Benton]]
 
+** [[https://github.com/frankmcsherry/blog/blob/master/posts/2018-05-19.md][A relatively simple Datalog engine in Rust]]
+
 ** To Investigate
 
 *** History of Datalog
@@ -61,15 +63,24 @@ Talks by Peter Alvaro:
 *** [[https://www.youtube.com/watch?v=R2Aa4PivG0g][I See What You Mean]]
 *** [[https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Bloom-Disorderly-Programming-for-a-Distributed-World][Bloom: Disorderly Programming for a Distributed World]]
 
+*** Datafun
+
+**** [[https://www.youtube.com/watch?v=gC295d3V9gE][Datafun: a functional query language]]
+
 ** Interesting use cases
 
 *** Type checker
-[[https://users.soe.ucsc.edu/~cormac/papers/ppdp05.pdf][Automatic Type Inference via Partial Evaluation]]
+**** [[https://users.soe.ucsc.edu/~cormac/papers/ppdp05.pdf][Automatic Type Inference via Partial Evaluation]]
+**** [[https://petevilter.me/post/datalog-typechecking/][Datalog Typechecking]]
 
 *** Disassembly
 
 **** [[https://www.usenix.org/system/files/sec20fall_flores-montoya_prepub_0.pdf][Datalog Disassembly]]
 **** [[https://github.com/GrammaTech/ddisasm][Repo]]
+
+*** Application in Neural Networks
+
+**** [[https://arxiv.org/abs/2006.16723][Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification]]
 
 * Linked Data
 
