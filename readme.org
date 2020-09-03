@@ -48,6 +48,9 @@ What kind of lattice/structure is their underlying model? What does this preclud
 
 Ginsburg later in his life got interested in Datalog and Object Histories. It could be worthwhile to investigate what he was up to.
 
+** [[https://www.ijcai.org/Proceedings/16/Papers/619.pdf][Tabling as a Library with Delimited Control]]
+Use of continuations for enabling tabling support in Prolog
+
 ** Material on Data Integration from Stanford
 http://logic.stanford.edu/dataintegration/
 
