@@ -32,7 +32,7 @@ h/t [[https://twitter.com/willb][William Benton]]
 
 ** Books
 
-*** [[Foundations of Databases / Alice Book]]
+*** [[http://webdam.inria.fr/Alice/][Foundations of Databases / Alice Book]]
 *** [[https://amzn.to/34XH0ve][Foundations of deductive databases and logic programming]]
 
 ** To Investigate
@@ -82,6 +82,12 @@ Talks by Peter Alvaro:
 
 **** [[https://github.com/HarvardPL/formulog][Formulog]]
 [[http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/][Blogpost]]
+
+*** Programming Synthesis
+
+**** [[http://pages.cs.wisc.edu/~aws/papers/cp17.pdf][Constraint-Based Synthesis of Datalog Programs]]
+
+**** [[http://pages.cs.wisc.edu/~aws/papers/fse18b.pdf][Syntax-Guided Synthesis of Datalog Programs]]
 
 
 *** Disassembly
