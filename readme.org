@@ -19,6 +19,9 @@ Speaker notes on constructing a Datalog in Clojure.
 
 A blogpost on constructing a simple Datalog engine in Haskell to understand its semantics.
 
+** [[http://aosabook.org/en/500L/an-archaeology-inspired-database.html][An Archaeology Inspired Database]]
+A blogpost on building a database with Datalog in Clojure in less than 500 lines of code.
+
 ** To Investigate
 
 *** History of Datalog
@@ -31,3 +34,10 @@ What kind of lattice/structure is their underlying model? What does this preclud
 https://plast-lab.github.io/doop-pldi15-tutorial/
 
 *** Souffle
+
+* Linked Data
+
+Linked data, triple store, and the RDF movement in the web space is well worth understanding to know how it evolved and failed to garner the traction to become mainstream. I feel there’s some good work done in this field.
+
+** [[http://linkeddatabook.com/editions/1.0/][Linked Data Book]]
+Book on the ethos of linked data.
