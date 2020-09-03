@@ -51,6 +51,10 @@ Ginsburg later in his life got interested in Datalog and Object Histories. It co
 ** [[https://www.ijcai.org/Proceedings/16/Papers/619.pdf][Tabling as a Library with Delimited Control]]
 Use of continuations for enabling tabling support in Prolog
 
+** Complexity and Datalog
+https://iccl.inf.tu-dresden.de/w/images/3/33/DBT2016-Lecture-10.pdf
+https://www.scottaaronson.com/democritus/lec19.html
+
 ** Material on Data Integration from Stanford
 http://logic.stanford.edu/dataintegration/
 
