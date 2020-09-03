@@ -30,6 +30,11 @@ h/t [[https://twitter.com/willb][William Benton]]
 
 ** [[https://github.com/frankmcsherry/blog/blob/master/posts/2018-05-19.md][A relatively simple Datalog engine in Rust]]
 
+** Books
+
+*** [[Foundations of Databases / Alice Book]]
+*** [[https://amzn.to/34XH0ve][Foundations of deductive databases and logic programming]]
+
 ** To Investigate
 
 *** History of Datalog
