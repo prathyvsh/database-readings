@@ -46,7 +46,12 @@ What kind of lattice/structure is their underlying model? What does this preclud
 * Research Materials
 [[https://dsf.berkeley.edu/papers/socc12-blooml.pdf][Logic and Lattices for Distributed Programming]]
 
+* Seymour Ginsberg
 Ginsburg later in his life got interested in Datalog and Object Histories. It could be worthwhile to investigate what he was up to.
+
+* [[http://blogs.evergreen.edu/sosw/files/2014/04/Green-Vol5-DBS-017.pdf][Recursive queries]]
+
+* [[https://github.com/frankmcsherry/differential-dataflow][Differential Dataflow]]
 
 ** [[https://www.ijcai.org/Proceedings/16/Papers/619.pdf][Tabling as a Library with Delimited Control]]
 Use of continuations for enabling tabling support in Prolog
