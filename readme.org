@@ -46,12 +46,12 @@ Ginsburg later in his life got interested in Datalog and Object Histories. It co
 ** Material on Data Integration from Stanford
 http://logic.stanford.edu/dataintegration/
 
+** [[https://www.sti-innsbruck.at/sites/default/files/thesis/christoph-fuchs-thesis-final-09-2008.pdf][Extension of a Datalog Reasonerwith Top-Down Evaluation]]
+
 *** Doop
 https://plast-lab.github.io/doop-pldi15-tutorial/
 
 *** [[https://souffle-lang.github.io/][Soufflé]]
-
-*** [[https://github.com/HarvardPL/formulog][Formulog]]
 
 *** Dedalus
 Papers:
@@ -70,8 +70,14 @@ Talks by Peter Alvaro:
 ** Interesting use cases
 
 *** Type checker
+
 **** [[https://users.soe.ucsc.edu/~cormac/papers/ppdp05.pdf][Automatic Type Inference via Partial Evaluation]]
+
 **** [[https://petevilter.me/post/datalog-typechecking/][Datalog Typechecking]]
+
+**** [[https://github.com/HarvardPL/formulog][Formulog]]
+[[http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/][Blogpost]]
+
 
 *** Disassembly
 
