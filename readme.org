@@ -136,3 +136,9 @@ h/t [[https://twitter.com/toxi][Karsten Schmidt]]
 ** [[https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html][Tuple Spaces (or, Good Ideas Don't Always Win)]]
 
 ** [[https://livingroomresearch.tumblr.com/post/171022587132/living-room-in-context][Living Room in Context]]
+
+* Surveys
+
+** [[https://www.cs.vu.nl/~eliens/media/@archive/refs/summBob.pdf][Logic Programming Languages for the Internet]]
+
+** [[https://people.eecs.berkeley.edu/~sylvia/papers/hotos_2013.pdf][Large-Scale Computation Not at the Cost of Expressiveness]]
