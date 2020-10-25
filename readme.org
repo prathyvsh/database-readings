@@ -130,3 +130,9 @@ Linked data, triple store, and the RDF movement in the web space is well worth u
 ** [[http://linkeddatabook.com/editions/1.0/][Linked Data Book]]
 Book on the ethos of linked data.
 h/t [[https://twitter.com/toxi][Karsten Schmidt]]
+
+* Tuple Spaces
+
+** [[https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html][Tuple Spaces (or, Good Ideas Don't Always Win)]]
+
+** [[https://livingroomresearch.tumblr.com/post/171022587132/living-room-in-context][Living Room in Context]]
