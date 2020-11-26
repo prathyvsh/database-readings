@@ -3,6 +3,13 @@
 The following is a collection of resources to construct databases.
 My initial line of research is in constructing a database that allows for abstraction and combinators in constructing the search clauses.
 
+* Relational Algebra
+
+** Tools
+
+*** [[Alf][https://github.com/alf-tool/alf]]
+Alf is a modern query language, rooted in relational algebra, and implemented as a Ruby Domain Specific Language.
+
 * Datalog
 
 Following is a collection of resources for understanding the construction of Datalog:
@@ -112,7 +119,6 @@ Talks by Peter Alvaro:
 **** [[http://pages.cs.wisc.edu/~aws/papers/cp17.pdf][Constraint-Based Synthesis of Datalog Programs]]
 
 **** [[http://pages.cs.wisc.edu/~aws/papers/fse18b.pdf][Syntax-Guided Synthesis of Datalog Programs]]
-
 
 *** Disassembly
 
