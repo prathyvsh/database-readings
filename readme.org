@@ -7,7 +7,7 @@ My initial line of research is in constructing a database that allows for abstra
 
 ** Tools
 
-*** [[Alf][https://github.com/alf-tool/alf]]
+*** [[https://github.com/alf-tool/alf][Alf]]
 Alf is a modern query language, rooted in relational algebra, and implemented as a Ruby Domain Specific Language.
 
 * Datalog
